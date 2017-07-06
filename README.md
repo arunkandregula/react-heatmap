@@ -1,5 +1,5 @@
-# HeatMap implemented primarily D3 and React
-D3 Charts can be implemented in multiple approached in React:
+# HeatMap implemented using D3 and React
+D3 Charts can be implemented in multiple approaches in React:
 Approach 1. D3 handles DOM.
 Approach 2. React handles the DOM taking advantage of virtual DOM.
 
