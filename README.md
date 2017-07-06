@@ -17,7 +17,7 @@ But for now, I have implemented Approach 1. When time permits, Ill implement App
 - Webpack
 - Babel
 
-## How to run the source code to see the game
+## How to run the source code to see the application
 1. Clone this repo:
 git clone git@github.com:arunkandregula/react-heatmap.git
 
