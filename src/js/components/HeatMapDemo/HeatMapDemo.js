@@ -5,7 +5,7 @@ import {$,jquery} from 'jquery';
 let d3 = require('d3');
 
 const colLabels = ["1a long long names", "2a", "3a", "4a", "5a", "6a", "7a  long long nameslong long names", "8a", "9a", "10a", "11a", "12p", "1p", "2p", "3p", "4p", "5p", "6p", "7p", "8p", "9p", "10p", "11p", "12a"];
-const rowLabels = ["Monday", "Tuesday Tuesday Tuesday ", "We", "Thursday", "Fri ", "Sa", "Su", "Again Somvar the Monday........"];
+const rowLabels = ["Monday", "Tuesday Tuesday Tuesday ", "We", "Thursday", "Fri ", "Sa", "Su", "Again Monday........", "Tuesdayyyyyyyyyyy", "Wednesday...", "Long Thursdayyyyyyyy", "Long awaiting Fridayyyyyyyy", "and this can go on and on" ];
 
 export default class HeatMapDemo extends React.Component{
 	constructor(){
