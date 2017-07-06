@@ -20,12 +20,10 @@ But for now, I have implemented Approach 1. When time permits, Ill implement App
 ## How to run the source code to see the application
 1. Clone this repo:
 git clone git@github.com:arunkandregula/react-heatmap.git
-
-2. npm install
-3. cd react-heatmap
-4. npm install
-5. npm run build
-6. Wait until it says : webpack: Compiled successfully.
+2. cd react-heatmap
+3. npm install
+4. npm run build
+5. Wait until it says : webpack: Compiled successfully.
 6. And then, open http://localhost:3333/ in browser.
 
 
